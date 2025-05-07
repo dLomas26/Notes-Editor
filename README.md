@@ -68,7 +68,7 @@ A sleek, Notion-inspired notes editor built with **Next.js**, **TypeScript**, an
   # or
   yarn install
 
-
+```
 3. Run the development server:
 
   ```bash
@@ -76,13 +76,11 @@ A sleek, Notion-inspired notes editor built with **Next.js**, **TypeScript**, an
   # or
   yarn dev
 
+```
 4. Open in browser:
 
   Navigate to http://localhost:3000 to view the application.
 
-```
 
-🙌 Acknowledgements
-  TipTap for the rich-text editor.
-  Tailwind CSS for utility-first styling.
-  Next.js for the React framework.
+
+
